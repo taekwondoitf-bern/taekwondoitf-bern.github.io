@@ -9,8 +9,7 @@ raisons pour lesquelles le Taekwon-Do s’appelle un «Art d’autodéfense».
 
 L'association est membre de la [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch).
 
-<center>
-  ![Alt Logo Bern](images/Logo_Bern.png){:width="50%"}
-</center>
+![Alt Logo Bern](images/Logo_Bern.png){:width="50%"}
+
 
 _Mise à jour de ce site: 12-04-2024_
