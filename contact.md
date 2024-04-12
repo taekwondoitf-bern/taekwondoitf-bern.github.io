@@ -2,7 +2,8 @@
 layout: page
 title: Contact
 ---
-Président: François Couture (Dan VI)
-Vice président: Alexandre Bergel (Dan III) 
-Trésorier: Loris Mathian (Dan II)
-Secrétaire: Sarah Boog (Dan II)
+La directive de l'association est composée:
+- _Président_: François Couture (Dan VI)
+- _Vice président_: Alexandre Bergel (Dan III) 
+- _Trésorier_: Loris Mathian (Dan II)
+- _Secrétaire_: Sarah Boog (Dan II)
