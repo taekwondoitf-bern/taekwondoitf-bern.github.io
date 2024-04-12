@@ -8,3 +8,5 @@ L'association a pour but principal de promouvoir le Taekwon-Do ITF dans le canto
 raisons pour lesquelles le Taekwon-Do s’appelle un «Art d’autodéfense».
 
 L'association est membre de la [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch).
+
+![Alt Logo Bern](images/Logo_Bern.png){:width="50%"}
