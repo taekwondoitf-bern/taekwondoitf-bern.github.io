@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Association Taekwon-Do ITF Canton de Bern
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Alexandre Bergel
+  email: alexandre.bergel@me.com
+description: "Site de l'Association Taekwon-Do ITF Canton de Bern/Verein Taekwon-Do ITF Kanton Bern"
 
 # Build settings
 remote_theme: jekyll/minima
